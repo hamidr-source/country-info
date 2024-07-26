@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import wiki from "wikijs";
 import Map from "./components/Map";
 import Info from "./components/Info";
 import Summary from "./components/Summary";
