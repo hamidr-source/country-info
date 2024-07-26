@@ -4,5 +4,5 @@ import ImageMapper from "react-image-mapper";
 import IMAGE_URL from "./map.jpg";
 
 export default function Map() {
-  return <ImageMapper src={IMAGE_URL} map={map} />;
+  return <ImageMapper src={IMAGE_URL} map={map} width={800} imgWidth={1000} />;
 }
