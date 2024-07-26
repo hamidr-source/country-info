@@ -2,7 +2,7 @@
   "name": "world-map",
   "areas": [
     {
-      "name": "Greenland",
+      "name": "Greenland ",
       "shape": "poly",
       "coords": [
         "292",
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "name": "Canad",
+      "name": "Canada",
       "shape": "poly",
       "coords": [
         "83",
@@ -562,7 +562,7 @@
       ]
     },
     {
-      "name": "Alaska (USA",
+      "name": "Alaska (USA)",
       "shape": "poly",
       "coords": [
         "65",
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "name": "US",
+      "name": "USA",
       "shape": "poly",
       "coords": [
         "130",
@@ -918,7 +918,7 @@
       ]
     },
     {
-      "name": "Mexic",
+      "name": "Mexico",
       "shape": "poly",
       "coords": [
         "179",
@@ -1020,7 +1020,7 @@
       ]
     },
     {
-      "name": "Chil",
+      "name": "Chile",
       "shape": "poly",
       "coords": [
         "280",
@@ -1112,7 +1112,7 @@
       ]
     },
     {
-      "name": "Argentin",
+      "name": "Argentina",
       "shape": "poly",
       "coords": [
         "294",
@@ -1266,7 +1266,7 @@
       ]
     },
     {
-      "name": "Urugua",
+      "name": "Uruguay",
       "shape": "poly",
       "coords": [
         "315",
@@ -1290,7 +1290,7 @@
       ]
     },
     {
-      "name": "Paragua",
+      "name": "Paraguay",
       "shape": "poly",
       "coords": [
         "301",
@@ -1332,7 +1332,7 @@
       ]
     },
     {
-      "name": "Bolivi",
+      "name": "Bolivia",
       "shape": "poly",
       "coords": [
         "291",
@@ -1388,7 +1388,7 @@
       ]
     },
     {
-      "name": "Per",
+      "name": "Peru",
       "shape": "poly",
       "coords": [
         "250",
@@ -1450,7 +1450,7 @@
       ]
     },
     {
-      "name": "Ecuado",
+      "name": "Ecuador",
       "shape": "poly",
       "coords": [
         "254",
@@ -1492,7 +1492,7 @@
       ]
     },
     {
-      "name": "Brazi",
+      "name": "Brazil",
       "shape": "poly",
       "coords": [
         "329",
@@ -1640,7 +1640,7 @@
       ]
     },
     {
-      "name": "French-guian",
+      "name": "French-guiana",
       "shape": "poly",
       "coords": [
         "322",
@@ -1662,7 +1662,7 @@
       ]
     },
     {
-      "name": "Surinam",
+      "name": "Suriname",
       "shape": "poly",
       "coords": [
         "314",
@@ -1682,7 +1682,7 @@
       ]
     },
     {
-      "name": "Guyan",
+      "name": "Guyana",
       "shape": "poly",
       "coords": [
         "306",
@@ -1710,7 +1710,7 @@
       ]
     },
     {
-      "name": "Venezuel",
+      "name": "Venezuela",
       "shape": "poly",
       "coords": [
         "273",
@@ -1768,7 +1768,7 @@
       ]
     },
     {
-      "name": "Colombi",
+      "name": "Colombia",
       "shape": "poly",
       "coords": [
         "264",
@@ -1816,7 +1816,7 @@
       ]
     },
     {
-      "name": "Beliz",
+      "name": "Belize",
       "shape": "poly",
       "coords": [
         "226",
@@ -1832,7 +1832,7 @@
       ]
     },
     {
-      "name": "Guatemal",
+      "name": "Guatemala",
       "shape": "poly",
       "coords": [
         "218",
@@ -1864,7 +1864,7 @@
       ]
     },
     {
-      "name": "Hondura",
+      "name": "Honduras",
       "shape": "poly",
       "coords": [
         "226",
@@ -1894,7 +1894,7 @@
       ]
     },
     {
-      "name": "El-salvado",
+      "name": "El-salvador",
       "shape": "poly",
       "coords": [
         "224",
@@ -1912,7 +1912,7 @@
       ]
     },
     {
-      "name": "Nicaragu",
+      "name": "Nicaragua",
       "shape": "poly",
       "coords": [
         "235",
@@ -1934,7 +1934,7 @@
       ]
     },
     {
-      "name": "Costa-ric",
+      "name": "Costa-rica",
       "shape": "poly",
       "coords": [
         "235",
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "name": "Cub",
+      "name": "Cuba",
       "shape": "poly",
       "coords": [
         "238",
@@ -1994,7 +1994,7 @@
       ]
     },
     {
-      "name": "Bahama",
+      "name": "Bahamas",
       "shape": "poly",
       "coords": [
         "252",
@@ -2028,7 +2028,7 @@
       ]
     },
     {
-      "name": "Dominican-republi",
+      "name": "Dominican-republic",
       "shape": "poly",
       "coords": [
         "278",
@@ -2052,7 +2052,7 @@
       ]
     },
     {
-      "name": "Hait",
+      "name": "Haiti",
       "shape": "poly",
       "coords": [
         "265",
@@ -2074,7 +2074,7 @@
       ]
     },
     {
-      "name": "Russi",
+      "name": "Russia",
       "shape": "poly",
       "coords": [
         "875",
@@ -2610,7 +2610,7 @@
       ]
     },
     {
-      "name": "Finlan",
+      "name": "Finland",
       "shape": "poly",
       "coords": [
         "529",
@@ -2688,7 +2688,7 @@
       ]
     },
     {
-      "name": "Swede",
+      "name": "Sweden",
       "shape": "poly",
       "coords": [
         "524",
@@ -2782,7 +2782,7 @@
       ]
     },
     {
-      "name": "Norwa",
+      "name": "Norway",
       "shape": "poly",
       "coords": [
         "448",
@@ -3052,7 +3052,7 @@
       ]
     },
     {
-      "name": "Uzbekista",
+      "name": "Uzbekistan",
       "shape": "poly",
       "coords": [
         "666",
@@ -3156,7 +3156,7 @@
       ]
     },
     {
-      "name": "Turkmenista",
+      "name": "Turkmenistan",
       "shape": "poly",
       "coords": [
         "616",
@@ -3232,7 +3232,7 @@
       ]
     },
     {
-      "name": "Kyrgyzsta",
+      "name": "Kyrgyzstan",
       "shape": "poly",
       "coords": [
         "692",
@@ -3298,7 +3298,7 @@
       ]
     },
     {
-      "name": "Tajikista",
+      "name": "Tajikistan",
       "shape": "poly",
       "coords": [
         "669",
@@ -3336,7 +3336,7 @@
       ]
     },
     {
-      "name": "Afghanista",
+      "name": "Afghanistan",
       "shape": "poly",
       "coords": [
         "642",
@@ -3400,7 +3400,7 @@
       ]
     },
     {
-      "name": "Pakista",
+      "name": "Pakistan",
       "shape": "poly",
       "coords": [
         "646",
@@ -3494,7 +3494,7 @@
       ]
     },
     {
-      "name": "Indi",
+      "name": "India",
       "shape": "poly",
       "coords": [
         "683",
@@ -3720,7 +3720,7 @@
       ]
     },
     {
-      "name": "Nepa",
+      "name": "Nepal",
       "shape": "poly",
       "coords": [
         "701",
@@ -3744,7 +3744,7 @@
       ]
     },
     {
-      "name": "Bhuta",
+      "name": "Bhutan",
       "shape": "poly",
       "coords": [
         "719",
@@ -3764,7 +3764,7 @@
       ]
     },
     {
-      "name": "Banglades",
+      "name": "Bangladesh",
       "shape": "poly",
       "coords": [
         "719",
@@ -3810,7 +3810,7 @@
       ]
     },
     {
-      "name": "Sri-lanka",
+      "name": "Sri-lanka ",
       "shape": "poly",
       "coords": [
         "691",
@@ -3836,7 +3836,7 @@
       ]
     },
     {
-      "name": "Myanma",
+      "name": "Myanmar",
       "shape": "poly",
       "coords": [
         "744",
@@ -3940,7 +3940,7 @@
       ]
     },
     {
-      "name": "Thailan",
+      "name": "Thailand",
       "shape": "poly",
       "coords": [
         "751",
@@ -4014,7 +4014,7 @@
       ]
     },
     {
-      "name": "Lao",
+      "name": "Laos",
       "shape": "poly",
       "coords": [
         "752",
@@ -4060,7 +4060,7 @@
       ]
     },
     {
-      "name": "Cambodi",
+      "name": "Cambodia",
       "shape": "poly",
       "coords": [
         "756",
@@ -4090,7 +4090,7 @@
       ]
     },
     {
-      "name": "Vietna",
+      "name": "Vietnam",
       "shape": "poly",
       "coords": [
         "761",
@@ -4154,12 +4154,12 @@
       ]
     },
     {
-      "name": "Singapor",
+      "name": "Singapore",
       "shape": "poly",
       "coords": ["757", "459", "760", "459", "760", "460", "757", "460"]
     },
     {
-      "name": "Brune",
+      "name": "Brunei",
       "shape": "poly",
       "coords": [
         "788",
@@ -4179,7 +4179,7 @@
       ]
     },
     {
-      "name": "Malaysi",
+      "name": "Malaysia",
       "shape": "poly",
       "coords": [
         "747",
@@ -4285,7 +4285,7 @@
       ]
     },
     {
-      "name": "Indonesi",
+      "name": "Indonesia",
       "shape": "poly",
       "coords": [
         "733",
@@ -4455,7 +4455,7 @@
       ]
     },
     {
-      "name": "Papua-new-guine",
+      "name": "Papua-new-guinea",
       "shape": "poly",
       "coords": [
         "874",
@@ -4531,7 +4531,7 @@
       ]
     },
     {
-      "name": "Icelan",
+      "name": "Iceland",
       "shape": "poly",
       "coords": [
         "403",
@@ -4581,7 +4581,7 @@
       ]
     },
     {
-      "name": "Australi",
+      "name": "Australia",
       "shape": "poly",
       "coords": [
         "806",
@@ -4765,7 +4765,7 @@
       ]
     },
     {
-      "name": "North-kore",
+      "name": "North-korea",
       "shape": "poly",
       "coords": [
         "830",
@@ -4807,7 +4807,7 @@
       ]
     },
     {
-      "name": "South-kore",
+      "name": "South-korea",
       "shape": "poly",
       "coords": [
         "829",
@@ -4833,7 +4833,7 @@
       ]
     },
     {
-      "name": "Taiwa",
+      "name": "Taiwan",
       "shape": "poly",
       "coords": [
         "807",
@@ -4853,7 +4853,7 @@
       ]
     },
     {
-      "name": "Japa",
+      "name": "Japan",
       "shape": "poly",
       "coords": [
         "862",
@@ -4921,7 +4921,7 @@
       ]
     },
     {
-      "name": "Kazakhsta",
+      "name": "Kazakhstan",
       "shape": "poly",
       "coords": [
         "618",
@@ -5109,7 +5109,7 @@
       ]
     },
     {
-      "name": "Mongoli",
+      "name": "Mongolia",
       "shape": "poly",
       "coords": [
         "722",
@@ -5205,7 +5205,7 @@
       ]
     },
     {
-      "name": "Chin",
+      "name": "China",
       "shape": "poly",
       "coords": [
         "770",
@@ -5501,7 +5501,7 @@
       ]
     },
     {
-      "name": "Philippine",
+      "name": "Philippines",
       "shape": "poly",
       "coords": [
         "807",
@@ -5543,12 +5543,12 @@
       ]
     },
     {
-      "name": "Lesoth",
+      "name": "Lesotho",
       "shape": "circle",
       "coords": ["550", "548", "3"]
     },
     {
-      "name": "Georgi",
+      "name": "Georgia",
       "shape": "poly",
       "coords": [
         "583",
@@ -5576,7 +5576,7 @@
       ]
     },
     {
-      "name": "Armeni",
+      "name": "Armenia",
       "shape": "poly",
       "coords": [
         "592",
@@ -5598,7 +5598,7 @@
       ]
     },
     {
-      "name": "Azerbaija",
+      "name": "Azerbaijan",
       "shape": "poly",
       "coords": [
         "608",
@@ -5638,7 +5638,7 @@
       ]
     },
     {
-      "name": "Ira",
+      "name": "Iran",
       "shape": "poly",
       "coords": [
         "599",
@@ -5728,7 +5728,7 @@
       ]
     },
     {
-      "name": "eSwatin",
+      "name": "eSwatini",
       "shape": "poly",
       "coords": [
         "559",
@@ -5748,7 +5748,7 @@
       ]
     },
     {
-      "name": "South-africa",
+      "name": "South-africa ",
       "shape": "poly",
       "coords": [
         "519",
@@ -5878,7 +5878,7 @@
       ]
     },
     {
-      "name": "Namibi",
+      "name": "Namibia",
       "shape": "poly",
       "coords": [
         "504",
@@ -5924,7 +5924,7 @@
       ]
     },
     {
-      "name": "Botswan",
+      "name": "Botswana",
       "shape": "poly",
       "coords": [
         "540",
@@ -5970,7 +5970,7 @@
       ]
     },
     {
-      "name": "Angol",
+      "name": "Angola",
       "shape": "poly",
       "coords": [
         "505",
@@ -6032,7 +6032,7 @@
       ]
     },
     {
-      "name": "Mozambiqu",
+      "name": "Mozambique",
       "shape": "poly",
       "coords": [
         "584",
@@ -6098,7 +6098,7 @@
       ]
     },
     {
-      "name": "Zimbabw",
+      "name": "Zimbabwe",
       "shape": "poly",
       "coords": [
         "551",
@@ -6138,7 +6138,7 @@
       ]
     },
     {
-      "name": "Zambi",
+      "name": "Zambia",
       "shape": "poly",
       "coords": [
         "553",
@@ -6190,7 +6190,7 @@
       ]
     },
     {
-      "name": "Malaw",
+      "name": "Malawi",
       "shape": "poly",
       "coords": [
         "568",
@@ -6222,7 +6222,7 @@
       ]
     },
     {
-      "name": "Madagasca",
+      "name": "Madagascar",
       "shape": "poly",
       "coords": [
         "607",
@@ -6258,7 +6258,7 @@
       ]
     },
     {
-      "name": "Burund",
+      "name": "Burundi",
       "shape": "poly",
       "coords": [
         "552",
@@ -6274,12 +6274,12 @@
       ]
     },
     {
-      "name": "Rwand",
+      "name": "Rwanda",
       "shape": "poly",
       "coords": ["552", "466", "556", "466", "556", "470", "552", "470"]
     },
     {
-      "name": "Tanzani",
+      "name": "Tanzania",
       "shape": "poly",
       "coords": [
         "566",
@@ -6325,7 +6325,7 @@
       ]
     },
     {
-      "name": "Democratic-republic-of-cong",
+      "name": "Democratic-republic-of-congo",
       "shape": "poly",
       "coords": [
         "526",
@@ -6405,7 +6405,7 @@
       ]
     },
     {
-      "name": "Republic-of-cong",
+      "name": "Republic-of-congo",
       "shape": "poly",
       "coords": [
         "519",
@@ -6453,7 +6453,7 @@
       ]
     },
     {
-      "name": "Gabo",
+      "name": "Gabon",
       "shape": "poly",
       "coords": [
         "503",
@@ -6483,7 +6483,7 @@
       ]
     },
     {
-      "name": "Equatorial-guine",
+      "name": "Equatorial-guinea",
       "shape": "poly",
       "coords": [
         "499",
@@ -6499,7 +6499,7 @@
       ]
     },
     {
-      "name": "Cameroo",
+      "name": "Cameroon",
       "shape": "poly",
       "coords": [
         "509",
@@ -6549,7 +6549,7 @@
       ]
     },
     {
-      "name": "Nigeri",
+      "name": "Nigeria",
       "shape": "poly",
       "coords": [
         "486",
@@ -6603,7 +6603,7 @@
       ]
     },
     {
-      "name": "Beni",
+      "name": "Benin",
       "shape": "poly",
       "coords": [
         "476",
@@ -6629,7 +6629,7 @@
       ]
     },
     {
-      "name": "Tog",
+      "name": "Togo",
       "shape": "poly",
       "coords": [
         "471",
@@ -6653,7 +6653,7 @@
       ]
     },
     {
-      "name": "Ghan",
+      "name": "Ghana",
       "shape": "poly",
       "coords": [
         "464",
@@ -6685,7 +6685,7 @@
       ]
     },
     {
-      "name": "Cote-divoir",
+      "name": "Cote-divoire",
       "shape": "poly",
       "coords": [
         "449",
@@ -6723,7 +6723,7 @@
       ]
     },
     {
-      "name": "Burkina fas",
+      "name": "Burkina faso",
       "shape": "poly",
       "coords": [
         "457",
@@ -6763,7 +6763,7 @@
       ]
     },
     {
-      "name": "Liberi",
+      "name": "Liberia",
       "shape": "poly",
       "coords": [
         "445",
@@ -6795,7 +6795,7 @@
       ]
     },
     {
-      "name": "Sierra-leon",
+      "name": "Sierra-leone",
       "shape": "poly",
       "coords": [
         "437",
@@ -6825,7 +6825,7 @@
       ]
     },
     {
-      "name": "Guine",
+      "name": "Guinea",
       "shape": "poly",
       "coords": [
         "430",
@@ -6869,7 +6869,7 @@
       ]
     },
     {
-      "name": "Guinea-bissa",
+      "name": "Guinea-bissau",
       "shape": "poly",
       "coords": [
         "426",
@@ -6885,7 +6885,7 @@
       ]
     },
     {
-      "name": "The-gambi",
+      "name": "The-gambia",
       "shape": "poly",
       "coords": [
         "425",
@@ -6903,7 +6903,7 @@
       ]
     },
     {
-      "name": "Senega",
+      "name": "Senegal",
       "shape": "poly",
       "coords": [
         "426",
@@ -6939,7 +6939,7 @@
       ]
     },
     {
-      "name": "Mal",
+      "name": "Mali",
       "shape": "poly",
       "coords": [
         "453",
@@ -6985,7 +6985,7 @@
       ]
     },
     {
-      "name": "Nige",
+      "name": "Niger",
       "shape": "poly",
       "coords": [
         "505",
@@ -7031,7 +7031,7 @@
       ]
     },
     {
-      "name": "Central-african-republi",
+      "name": "Central-african-republic",
       "shape": "poly",
       "coords": [
         "533",
@@ -7069,7 +7069,7 @@
       ]
     },
     {
-      "name": "South-suda",
+      "name": "South-sudan",
       "shape": "poly",
       "coords": [
         "541",
@@ -7123,7 +7123,7 @@
       ]
     },
     {
-      "name": "Ugand",
+      "name": "Uganda",
       "shape": "poly",
       "coords": [
         "566",
@@ -7155,7 +7155,7 @@
       ]
     },
     {
-      "name": "Keny",
+      "name": "Kenya",
       "shape": "poly",
       "coords": [
         "587",
@@ -7189,7 +7189,7 @@
       ]
     },
     {
-      "name": "Somali",
+      "name": "Somalia",
       "shape": "poly",
       "coords": [
         "589",
@@ -7229,7 +7229,7 @@
       ]
     },
     {
-      "name": "Djibouti",
+      "name": "Djibouti ",
       "shape": "poly",
       "coords": [
         "589",
@@ -7247,7 +7247,7 @@
       ]
     },
     {
-      "name": "Ethiopi",
+      "name": "Ethiopia",
       "shape": "poly",
       "coords": [
         "572",
@@ -7289,7 +7289,7 @@
       ]
     },
     {
-      "name": "Eritre",
+      "name": "Eritrea",
       "shape": "poly",
       "coords": [
         "578",
@@ -7323,7 +7323,7 @@
       ]
     },
     {
-      "name": "Cha",
+      "name": "Chad",
       "shape": "poly",
       "coords": [
         "538",
@@ -7365,7 +7365,7 @@
       ]
     },
     {
-      "name": "Suda",
+      "name": "Sudan",
       "shape": "poly",
       "coords": [
         "541",
@@ -7433,7 +7433,7 @@
       ]
     },
     {
-      "name": "Mauritani",
+      "name": "Mauritania",
       "shape": "poly",
       "coords": [
         "448",
@@ -7473,7 +7473,7 @@
       ]
     },
     {
-      "name": "Western-sahar",
+      "name": "Western-sahara",
       "shape": "poly",
       "coords": [
         "435",
@@ -7505,7 +7505,7 @@
       ]
     },
     {
-      "name": "Morocc",
+      "name": "Morocco",
       "shape": "poly",
       "coords": [
         "455",
@@ -7549,7 +7549,7 @@
       ]
     },
     {
-      "name": "Algeri",
+      "name": "Algeria",
       "shape": "poly",
       "coords": [
         "495",
@@ -7609,7 +7609,7 @@
       ]
     },
     {
-      "name": "Tunisi",
+      "name": "Tunisia",
       "shape": "poly",
       "coords": [
         "502",
@@ -7645,7 +7645,7 @@
       ]
     },
     {
-      "name": "Liby",
+      "name": "Libya",
       "shape": "poly",
       "coords": [
         "526",
@@ -7699,7 +7699,7 @@
       ]
     },
     {
-      "name": "Egyp",
+      "name": "Egypt",
       "shape": "poly",
       "coords": [
         "562",
@@ -7733,7 +7733,7 @@
       ]
     },
     {
-      "name": "Yeme",
+      "name": "Yemen",
       "shape": "poly",
       "coords": [
         "602",
@@ -7803,7 +7803,7 @@
       ]
     },
     {
-      "name": "Kuwai",
+      "name": "Kuwait",
       "shape": "poly",
       "coords": [
         "603",
@@ -7819,7 +7819,7 @@
       ]
     },
     {
-      "name": "Bahrai",
+      "name": "Bahrain",
       "shape": "poly",
       "coords": [
         "610",
@@ -7837,7 +7837,7 @@
       ]
     },
     {
-      "name": "Qata",
+      "name": "Qatar",
       "shape": "poly",
       "coords": [
         "613",
@@ -7857,7 +7857,7 @@
       ]
     },
     {
-      "name": "United-arab-emirate",
+      "name": "United-arab-emirates",
       "shape": "poly",
       "coords": [
         "615",
@@ -7877,7 +7877,7 @@
       ]
     },
     {
-      "name": "Saudi-arabi",
+      "name": "Saudi-arabia",
       "shape": "poly",
       "coords": [
         "571",
@@ -7947,7 +7947,7 @@
       ]
     },
     {
-      "name": "Ira",
+      "name": "Iraq",
       "shape": "poly",
       "coords": [
         "589",
@@ -7989,7 +7989,7 @@
       ]
     },
     {
-      "name": "Jorda",
+      "name": "Jordan",
       "shape": "poly",
       "coords": [
         "574",
@@ -8013,7 +8013,7 @@
       ]
     },
     {
-      "name": "Israe",
+      "name": "Israel",
       "shape": "poly",
       "coords": [
         "568",
@@ -8037,7 +8037,7 @@
       ]
     },
     {
-      "name": "Lebano",
+      "name": "Lebanon",
       "shape": "poly",
       "coords": [
         "569",
@@ -8059,7 +8059,7 @@
       ]
     },
     {
-      "name": "Syri",
+      "name": "Syria",
       "shape": "poly",
       "coords": [
         "573",
@@ -8101,7 +8101,7 @@
       ]
     },
     {
-      "name": "Newzealan",
+      "name": "Newzealand",
       "shape": "poly",
       "coords": [
         "947",
@@ -8239,7 +8239,7 @@
       ]
     },
     {
-      "name": "Icelan",
+      "name": "Iceland",
       "shape": "poly",
       "coords": [
         "453",
@@ -8279,7 +8279,7 @@
       ]
     },
     {
-      "name": "United-kingdo",
+      "name": "United-kingdom",
       "shape": "poly",
       "coords": [
         "456",
@@ -8369,7 +8369,7 @@
       ]
     },
     {
-      "name": "Portuga",
+      "name": "Portugal",
       "shape": "poly",
       "coords": [
         "447",
@@ -8417,12 +8417,12 @@
       ]
     },
     {
-      "name": "Andorr",
+      "name": "Andorra",
       "shape": "circle",
       "coords": ["476", "334", "2"]
     },
     {
-      "name": "Spai",
+      "name": "Spain",
       "shape": "poly",
       "coords": [
         "449",
@@ -8514,12 +8514,12 @@
       ]
     },
     {
-      "name": "Monac",
+      "name": "Monaco",
       "shape": "circle",
       "coords": ["491", "329", "3"]
     },
     {
-      "name": "German",
+      "name": "Germany",
       "shape": "poly",
       "coords": [
         "495",
@@ -8571,7 +8571,7 @@
       ]
     },
     {
-      "name": "Netherland",
+      "name": "Netherlands",
       "shape": "poly",
       "coords": [
         "486",
@@ -8595,7 +8595,7 @@
       ]
     },
     {
-      "name": "Luxembour",
+      "name": "Luxembourg",
       "shape": "poly",
       "coords": [
         "487",
@@ -8613,7 +8613,7 @@
       ]
     },
     {
-      "name": "Belgiu",
+      "name": "Belgium",
       "shape": "poly",
       "coords": [
         "480",
@@ -8639,22 +8639,22 @@
       ]
     },
     {
-      "name": "Malt",
+      "name": "Malta",
       "shape": "circle",
       "coords": ["512", "357", "3"]
     },
     {
-      "name": "Vatican Cit",
+      "name": "Vatican City",
       "shape": "circle",
       "coords": ["507", "336", "2"]
     },
     {
-      "name": "San-marin",
+      "name": "San-marino",
       "shape": "circle",
       "coords": ["506", "328", "3"]
     },
     {
-      "name": "Ital",
+      "name": "Italy",
       "shape": "poly",
       "coords": [
         "496",
@@ -8762,7 +8762,7 @@
       ]
     },
     {
-      "name": "Franc",
+      "name": "France",
       "shape": "poly",
       "coords": [
         "476",
@@ -8856,12 +8856,12 @@
       ]
     },
     {
-      "name": "Liechtenstei",
+      "name": "Liechtenstein",
       "shape": "circle",
       "coords": ["498", "316", "2"]
     },
     {
-      "name": "Switzerlan",
+      "name": "Switzerland",
       "shape": "poly",
       "coords": [
         "499",
@@ -8897,7 +8897,7 @@
       ]
     },
     {
-      "name": "Austri",
+      "name": "Austria",
       "shape": "poly",
       "coords": [
         "512",
@@ -8931,7 +8931,7 @@
       ]
     },
     {
-      "name": "Czechi",
+      "name": "Czechia",
       "shape": "poly",
       "coords": [
         "515",
@@ -8957,7 +8957,7 @@
       ]
     },
     {
-      "name": "Polan",
+      "name": "Poland",
       "shape": "poly",
       "coords": [
         "517",
@@ -8999,7 +8999,7 @@
       ]
     },
     {
-      "name": "Slovaki",
+      "name": "Slovakia",
       "shape": "poly",
       "coords": [
         "523",
@@ -9025,7 +9025,7 @@
       ]
     },
     {
-      "name": "Hungar",
+      "name": "Hungary",
       "shape": "poly",
       "coords": [
         "516",
@@ -9051,7 +9051,7 @@
       ]
     },
     {
-      "name": "Sloveni",
+      "name": "Slovenia",
       "shape": "poly",
       "coords": [
         "509",
@@ -9071,7 +9071,7 @@
       ]
     },
     {
-      "name": "Croati",
+      "name": "Croatia",
       "shape": "poly",
       "coords": [
         "522",
@@ -9109,7 +9109,7 @@
       ]
     },
     {
-      "name": "Bosnia Herzegovin",
+      "name": "Bosnia Herzegovina",
       "shape": "poly",
       "coords": [
         "525",
@@ -9131,7 +9131,7 @@
       ]
     },
     {
-      "name": "Montenegr",
+      "name": "Montenegro",
       "shape": "poly",
       "coords": [
         "525",
@@ -9153,7 +9153,7 @@
       ]
     },
     {
-      "name": "Serbi",
+      "name": "Serbia",
       "shape": "poly",
       "coords": [
         "528",
@@ -9191,7 +9191,7 @@
       ]
     },
     {
-      "name": "Kosov",
+      "name": "Kosovo",
       "shape": "poly",
       "coords": [
         "528",
@@ -9209,7 +9209,7 @@
       ]
     },
     {
-      "name": "Albani",
+      "name": "Albania",
       "shape": "poly",
       "coords": [
         "525",
@@ -9237,7 +9237,7 @@
       ]
     },
     {
-      "name": "North Macedoni",
+      "name": "North Macedonia",
       "shape": "poly",
       "coords": [
         "530",
@@ -9263,7 +9263,7 @@
       ]
     },
     {
-      "name": "Denmar",
+      "name": "Denmark",
       "shape": "poly",
       "coords": [
         "513",
@@ -9341,7 +9341,7 @@
       ]
     },
     {
-      "name": "Panam",
+      "name": "Panama",
       "shape": "poly",
       "coords": [
         "246",
@@ -9365,7 +9365,7 @@
       ]
     },
     {
-      "name": "Estoni",
+      "name": "Estonia",
       "shape": "poly",
       "coords": [
         "540",
@@ -9397,7 +9397,7 @@
       ]
     },
     {
-      "name": "Latvi",
+      "name": "Latvia",
       "shape": "poly",
       "coords": [
         "531",
@@ -9433,7 +9433,7 @@
       ]
     },
     {
-      "name": "Lithuani",
+      "name": "Lithuania",
       "shape": "poly",
       "coords": [
         "529",
@@ -9467,7 +9467,7 @@
       ]
     },
     {
-      "name": "Russi",
+      "name": "Russia",
       "shape": "poly",
       "coords": [
         "527",
@@ -9483,7 +9483,7 @@
       ]
     },
     {
-      "name": "Belaru",
+      "name": "Belarus",
       "shape": "poly",
       "coords": [
         "556",
@@ -9521,7 +9521,7 @@
       ]
     },
     {
-      "name": "Moldov",
+      "name": "Moldova",
       "shape": "poly",
       "coords": [
         "547",
@@ -9541,7 +9541,7 @@
       ]
     },
     {
-      "name": "Ukrain",
+      "name": "Ukraine",
       "shape": "poly",
       "coords": [
         "537",
@@ -9625,7 +9625,7 @@
       ]
     },
     {
-      "name": "Cypru",
+      "name": "Cyprus",
       "shape": "poly",
       "coords": [
         "568",
@@ -9641,7 +9641,7 @@
       ]
     },
     {
-      "name": "Romani",
+      "name": "Romania",
       "shape": "poly",
       "coords": [
         "551",
@@ -9681,7 +9681,7 @@
       ]
     },
     {
-      "name": "Bulgari",
+      "name": "Bulgaria",
       "shape": "poly",
       "coords": [
         "550",
@@ -9713,7 +9713,7 @@
       ]
     },
     {
-      "name": "Greec",
+      "name": "Greece",
       "shape": "poly",
       "coords": [
         "546",
@@ -9749,7 +9749,7 @@
       ]
     },
     {
-      "name": "Turke",
+      "name": "Turkey",
       "shape": "poly",
       "coords": [
         "555",
@@ -9807,7 +9807,7 @@
       ]
     },
     {
-      "name": "Hawaii",
+      "name": "Hawaii ",
       "shape": "poly",
       "coords": [
         "30",
@@ -9831,42 +9831,42 @@
       ]
     },
     {
-      "name": "North Pacific Ocea",
+      "name": "North Pacific Ocean",
       "shape": "rect",
       "coords": ["26", "320", "89", "374"]
     },
     {
-      "name": "Kiribat",
+      "name": "Kiribati",
       "shape": "circle",
       "coords": ["25", "457", "14"]
     },
     {
-      "name": "Tong",
+      "name": "Tonga",
       "shape": "circle",
       "coords": ["26", "493", "16"]
     },
     {
-      "name": "Cook-island",
+      "name": "Cook-islands",
       "shape": "circle",
       "coords": ["34", "529", "17"]
     },
     {
-      "name": "French-polynesi",
+      "name": "French-polynesia",
       "shape": "circle",
       "coords": ["92", "507", "23"]
     },
     {
-      "name": "Chil",
+      "name": "Chile",
       "shape": "circle",
       "coords": ["166", "552", "17"]
     },
     {
-      "name": "South Pacific Ocea",
+      "name": "South Pacific Ocean",
       "shape": "rect",
       "coords": ["96", "595", "152", "647"]
     },
     {
-      "name": "Antarctic",
+      "name": "Antarctica",
       "shape": "poly",
       "coords": [
         "261",
@@ -9924,37 +9924,37 @@
       ]
     },
     {
-      "name": "Falkland-island",
+      "name": "Falkland-islands",
       "shape": "circle",
       "coords": ["308", "627", "8"]
     },
     {
-      "name": "South Georgi",
+      "name": "South Georgia",
       "shape": "circle",
       "coords": ["370", "643", "8"]
     },
     {
-      "name": "South Sandwic",
+      "name": "South Sandwich",
       "shape": "circle",
       "coords": ["416", "659", "22"]
     },
     {
-      "name": "Seychelle",
+      "name": "Seychelles",
       "shape": "circle",
       "coords": ["621", "478", "3"]
     },
     {
-      "name": "Mauritiu",
+      "name": "Mauritius",
       "shape": "circle",
       "coords": ["631", "518", "3"]
     },
     {
-      "name": "Reunio",
+      "name": "Reunion",
       "shape": "rect",
       "coords": ["615", "521", "666", "531"]
     },
     {
-      "name": "Maldive",
+      "name": "Maldives",
       "shape": "poly",
       "coords": [
         "671",
@@ -9974,7 +9974,7 @@
       ]
     },
     {
-      "name": "Timor-lest",
+      "name": "Timor-leste",
       "shape": "poly",
       "coords": [
         "818",
@@ -9990,17 +9990,17 @@
       ]
     },
     {
-      "name": "Cocos-island",
+      "name": "Cocos-islands",
       "shape": "rect",
       "coords": ["706", "493", "743", "511"]
     },
     {
-      "name": "Christmas-island Ma",
+      "name": "Christmas-island Map",
       "shape": "rect",
       "coords": ["757", "491", "796", "509"]
     },
     {
-      "name": "Antarctic",
+      "name": "Antarctica",
       "shape": "poly",
       "coords": [
         "558",
@@ -10166,57 +10166,57 @@
       ]
     },
     {
-      "name": "Northern Mariana Island",
+      "name": "Northern Mariana Islands",
       "shape": "rect",
       "coords": ["871", "403", "944", "423"]
     },
     {
-      "name": "Gua",
+      "name": "Guam",
       "shape": "rect",
       "coords": ["832", "424", "881", "433"]
     },
     {
-      "name": "Federated States Of Micronesi",
+      "name": "Federated States Of Micronesia",
       "shape": "rect",
       "coords": ["865", "437", "926", "452"]
     },
     {
-      "name": "Marshall-island",
+      "name": "Marshall-islands",
       "shape": "circle",
       "coords": ["961", "436", "18"]
     },
     {
-      "name": "Kiribat",
+      "name": "Kiribati",
       "shape": "rect",
       "coords": ["952", "456", "995", "465"]
     },
     {
-      "name": "Solomon-island",
+      "name": "Solomon-islands",
       "shape": "circle",
       "coords": ["920", "484", "14"]
     },
     {
-      "name": "Wallis-and-futun",
+      "name": "Wallis-and-futuna",
       "shape": "rect",
       "coords": ["939", "481", "986", "499"]
     },
     {
-      "name": "Fij",
+      "name": "Fiji",
       "shape": "circle",
       "coords": ["961", "514", "13"]
     },
     {
-      "name": "New Caledoni",
+      "name": "New Caledonia",
       "shape": "circle",
       "coords": ["929", "533", "18"]
     },
     {
-      "name": "Tong",
+      "name": "Tonga",
       "shape": "rect",
       "coords": ["973", "524", "998", "533"]
     },
     {
-      "name": "Puerto-ric",
+      "name": "Puerto-rico",
       "shape": "poly",
       "coords": [
         "292",
@@ -10232,207 +10232,207 @@
       ]
     },
     {
-      "name": "St-kitts-and-nevi",
+      "name": "St-kitts-and-nevis",
       "shape": "rect",
       "coords": ["303", "392", "360", "399"]
     },
     {
-      "name": "Puerto-ric",
+      "name": "Puerto-rico",
       "shape": "rect",
       "coords": ["293", "384", "352", "391"]
     },
     {
-      "name": "Antigua and Barbad",
+      "name": "Antigua and Barbada",
       "shape": "rect",
       "coords": ["304", "401", "377", "409"]
     },
     {
-      "name": "Dominic",
+      "name": "Dominica",
       "shape": "rect",
       "coords": ["309", "411", "343", "417"]
     },
     {
-      "name": "Cape-verd",
+      "name": "Cape-verde",
       "shape": "rect",
       "coords": ["360", "413", "412", "422"]
     },
     {
-      "name": "Saint-luci",
+      "name": "Saint-lucia",
       "shape": "rect",
       "coords": ["313", "417", "346", "424"]
     },
     {
-      "name": "Barbado",
+      "name": "Barbados",
       "shape": "rect",
       "coords": ["316", "425", "348", "431"]
     },
     {
-      "name": "Trinidad-and-tobag",
+      "name": "Trinidad-and-tobago",
       "shape": "rect",
       "coords": ["313", "431", "375", "440"]
     },
     {
-      "name": "Netherland",
+      "name": "Netherlands",
       "shape": "rect",
       "coords": ["502", "585", "554", "595"]
     },
     {
-      "name": "Belgiu",
+      "name": "Belgium",
       "shape": "rect",
       "coords": ["506", "597", "542", "605"]
     },
     {
-      "name": "Luxembour",
+      "name": "Luxembourg",
       "shape": "rect",
       "coords": ["504", "607", "561", "614"]
     },
     {
-      "name": "Switzerlan",
+      "name": "Switzerland",
       "shape": "rect",
       "coords": ["506", "616", "557", "624"]
     },
     {
-      "name": "Sloveni",
+      "name": "Slovenia",
       "shape": "rect",
       "coords": ["505", "626", "545", "634"]
     },
     {
-      "name": "Croati",
+      "name": "Croatia",
       "shape": "rect",
       "coords": ["506", "635", "537", "644"]
     },
     {
-      "name": "Bosnia and Herzegovin",
+      "name": "Bosnia and Herzegovina",
       "shape": "rect",
       "coords": ["505", "645", "561", "663"]
     },
     {
-      "name": "Czech-republi",
+      "name": "Czech-republic",
       "shape": "rect",
       "coords": ["505", "664", "539", "673"]
     },
     {
-      "name": "Slovaki",
+      "name": "Slovakia",
       "shape": "rect",
       "coords": ["505", "674", "542", "684"]
     },
     {
-      "name": "Austri",
+      "name": "Austria",
       "shape": "rect",
       "coords": ["584", "587", "615", "595"]
     },
     {
-      "name": "Hungar",
+      "name": "Hungary",
       "shape": "rect",
       "coords": ["582", "596", "621", "605"]
     },
     {
-      "name": "Serbi",
+      "name": "Serbia",
       "shape": "rect",
       "coords": ["582", "606", "612", "613"]
     },
     {
-      "name": "Moldov",
+      "name": "Moldova",
       "shape": "rect",
       "coords": ["583", "615", "621", "624"]
     },
     {
-      "name": "acedoni",
+      "name": "acedonia",
       "shape": "rect",
       "coords": ["582", "625", "659", "633"]
     },
     {
-      "name": "Albani",
+      "name": "Albania",
       "shape": "rect",
       "coords": ["582", "633", "618", "644"]
     },
     {
-      "name": "Cypru",
+      "name": "Cyprus",
       "shape": "rect",
       "coords": ["581", "646", "614", "653"]
     },
     {
-      "name": "Lebano",
+      "name": "Lebanon",
       "shape": "rect",
       "coords": ["582", "654", "622", "661"]
     },
     {
-      "name": "Guinea-bissa",
+      "name": "Guinea-bissau",
       "shape": "rect",
       "coords": ["583", "664", "645", "673"]
     },
     {
-      "name": "Guine",
+      "name": "Guinea",
       "shape": "rect",
       "coords": ["582", "674", "615", "683"]
     },
     {
-      "name": "Ghan",
+      "name": "Ghana",
       "shape": "rect",
       "coords": ["675", "586", "700", "594"]
     },
     {
-      "name": "Tog",
+      "name": "Togo",
       "shape": "rect",
       "coords": ["671", "595", "695", "605"]
     },
     {
-      "name": "Beni",
+      "name": "Benin",
       "shape": "rect",
       "coords": ["674", "607", "702", "615"]
     },
     {
-      "name": "Cameroo",
+      "name": "Cameroon",
       "shape": "rect",
       "coords": ["670", "615", "715", "625"]
     },
     {
-      "name": "Equatorial-guine",
+      "name": "Equatorial-guinea",
       "shape": "rect",
       "coords": ["668", "627", "715", "644"]
     },
     {
-      "name": "Rwand",
+      "name": "Rwanda",
       "shape": "rect",
       "coords": ["670", "645", "710", "654"]
     },
     {
-      "name": "Cambodi",
+      "name": "Cambodia",
       "shape": "rect",
       "coords": ["669", "654", "715", "662"]
     },
     {
-      "name": "Panam",
+      "name": "Panama",
       "shape": "rect",
       "coords": ["672", "664", "709", "673"]
     },
     {
-      "name": "Malaw",
+      "name": "Malawi",
       "shape": "rect",
       "coords": ["672", "671", "705", "680"]
     },
     {
-      "name": "Liechtenstei",
+      "name": "Liechtenstein",
       "shape": "rect",
       "coords": ["746", "585", "805", "596"]
     },
     {
-      "name": "Montenegr",
+      "name": "Montenegro",
       "shape": "rect",
       "coords": ["747", "596", "804", "604"]
     },
     {
-      "name": "Kosov",
+      "name": "Kosovo",
       "shape": "rect",
       "coords": ["746", "605", "784", "611"]
     },
     {
-      "name": "Palestine Territorie",
+      "name": "Palestine Territories",
       "shape": "rect",
       "coords": ["748", "615", "794", "634"]
     },
     {
-      "name": "St Vincent and the Grenadine",
+      "name": "St Vincent and the Grenadines",
       "shape": "rect",
       "coords": ["744", "635", "819", "655"]
     }

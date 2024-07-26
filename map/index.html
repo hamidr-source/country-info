@@ -1739,7 +1739,7 @@
       document.querySelectorAll("area").forEach((area) => {
         if (area.coords.length) {
           map.areas.push({
-            name: area.title.substr(0, area.title.lastIndexOf(" ") - 1),
+            name: area.title.substr(0, area.title.lastIndexOf(" ")),
             shape: area.shape,
             coords: area.coords.split(","),
           });
