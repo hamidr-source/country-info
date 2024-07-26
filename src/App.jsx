@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import wiki from "wikijs";
 import Map from "./components/Map";
 import Info from "./components/Info";
@@ -6,10 +6,21 @@ import Summary from "./components/Summary";
 
 export default function App() {
   const [selectedCountry, setSelectedCountry] = useState("iran");
+  const [summary, setSummary] = useState("")
 
-  function handleClick (countryName) {
-    setSelectedCountry(countryName)
+  useEffect(() => {
+    async function fetchData() {
+      const page = await wiki().page(selectedCountry);
+      setSummary(await page.summary())
+    }
+
+    fetchData()
+  }, [selectedCountry]);
+
+  function handleClick(countryName) {
+    setSelectedCountry(countryName);
   }
+
   return (
     <div className="container mt-3">
       <div className="row">
@@ -21,7 +32,7 @@ export default function App() {
         </div>
       </div>
       <div className="row mt-3">
-        <Summary />
+        <Summary summary={summary}/>
       </div>
     </div>
   );

@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Summary() {
+export default function Summary({summary}) {
   return (
     <div className="mx-2">
-      <p>Summary</p>
+      <p>{summary}</p>
     </div>
   );
 }
