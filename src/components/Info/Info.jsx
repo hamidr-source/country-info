@@ -1,18 +1,20 @@
 import React from "react";
 
-export default function Info() {
+export default function Info({ info }) {
+  console.log(info);
   return (
     <div class="card">
-      <img
-        class="card-img-top"
-        src="assets/img/iran.png"
-        alt="Card image cap"
-      />
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">Capital: Tehran</li>
-        <li class="list-group-item">Official languages: Persian</li>
-        <li class="list-group-item">Population: 83,183,741</li>
-      </ul>
+      <img class="card-img-top" src="" alt="Card image cap" />
+      {info && (
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Capital: {info.capital}</li>
+          <li class="list-group-item">
+            Official languages: {info.officialLAnguages}
+          </li>
+          <li class="list-group-item">Population: {info.populationEstimate}</li>
+          <li class="list-group-item">Currency: {info.currency}</li>
+        </ul>
+      )}
     </div>
   );
 }

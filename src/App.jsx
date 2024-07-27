@@ -6,15 +6,19 @@ import Summary from "./components/Summary";
 
 export default function App() {
   const [selectedCountry, setSelectedCountry] = useState("iran");
-  const [summary, setSummary] = useState("")
+  const [summary, setSummary] = useState("");
+  const [info, setInfo] = useState(null)
 
   useEffect(() => {
     async function fetchData() {
       const page = await wiki().page(selectedCountry);
-      setSummary(await page.summary())
+      const [summary, info] = await Promise.all([page.summary(), page.info()]);
+
+      setSummary(summary)
+      setInfo(info)
     }
 
-    fetchData()
+    fetchData();
   }, [selectedCountry]);
 
   function handleClick(countryName) {
@@ -28,11 +32,11 @@ export default function App() {
           <Map handleClick={handleClick} />
         </div>
         <div className="col-12 col-md-3">
-          <Info />
+          <Info info={info} />
         </div>
       </div>
       <div className="row mt-3">
-        <Summary summary={summary}/>
+        <Summary summary={summary} />
       </div>
     </div>
   );
